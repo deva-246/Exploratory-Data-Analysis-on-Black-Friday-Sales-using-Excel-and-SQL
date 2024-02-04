@@ -1,1 +1,1 @@
-# Exploratory-Data-Analysis-on-Black-Friday-Sales-using-Excel-and-SQL
+# EDA-on-Black-Friday-Sales-using-Excel-and-SQL
