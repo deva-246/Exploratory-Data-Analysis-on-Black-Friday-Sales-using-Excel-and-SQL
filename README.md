@@ -3,7 +3,7 @@
 ## Dataset 
 Acces the dataset in this link - https://www.kaggle.com/code/sameerudgirkar/black-friday-sales/notebook
 
-The dataset has the following features:
+**The dataset has the following features**:
 
   -  User_ID : User ID
   
